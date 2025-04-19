@@ -31,6 +31,12 @@ A modern web application for tracking issues, managing projects, and coordinatin
 - npm or yarn
 - MongoDB
 
+###
+
+Frontend deployment - https://frontend-zeta-bice.vercel.app/
+
+Backend deployment - https://backend-dekr.onrender.com
+
 ### Installation
 
 1. Clone the repository:
